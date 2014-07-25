@@ -1,0 +1,9 @@
+ros-indigo-teleop-twist-joy (0.1.0-0trusty) trusty; urgency=high
+
+  * Added configurations for Logitech Attack3 and Extreme 3D Pro joysticks.
+  * Initial version, with example config for PS3 joystick.
+  * Contributors: Mike Purvis, Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 25 Jul 2014 04:00:00 -0000
+
+
